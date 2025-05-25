@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Kedi Oyunu 🐱
 
 Bu proje, JavaScript ve HTML5 Canvas kullanılarak geliştirilmiş basit bir 2D kedi oyunudur. Oyunda kullanıcı, bir kedi karakterini yönlendirerek çeşitli nesnelerle etkileşim kurar ve yaramazlık yapar. Yaramazlık sonucunda bir köpek tarafından kovalanır. Amaç, olabildiğince uzun süre hayatta kalmaktır.
@@ -38,4 +39,6 @@ Oyunu buradan oynayabilirsiniz:
 **Sümeyye Gül Demirel**  
 Bursa Teknik Üniversitesi – Bilgisayar Mühendisliği
 
+=======
+>>>>>>> 95981761224cc7e563e5b92430445075ea9626f1
 
